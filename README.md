@@ -23,5 +23,9 @@ Adding the corresponding path.
 * And finally running the following in your command promt:
 `python entertainment_center.py`
 
+## Known Issues
+
+If your system opens html files by default in sublime text or similar, then it might fail to open the file in your browser.
+
 ### License
 The contents of this repository are covered under the [MIT License](https://github.com/udacity/ud777-writing-readmes/blob/master/LICENSE).

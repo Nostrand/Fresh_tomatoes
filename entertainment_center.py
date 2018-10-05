@@ -1,3 +1,4 @@
+import webbrowser
 import media
 import fresh_tomatoes
 
