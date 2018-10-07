@@ -6,6 +6,7 @@ This is a project from the Udacity course [Programming Foundations with Python](
 ## Description
 
 A simple movie trailer website created with OOP in Python.
+![Fresh Tomatoes preview](https://github.com/Nostrand/Fresh_tomatoes/blob/master/previewFT.png)
 
 ## How can you run this?
 
