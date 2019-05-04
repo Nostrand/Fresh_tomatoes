@@ -28,5 +28,5 @@ Adding the corresponding path.
 
 If your system opens html files by default in sublime text or similar, then it might fail to open the file in your browser.
 
-### License
+## License
 The contents of this repository are covered under the [MIT License](https://github.com/udacity/ud777-writing-readmes/blob/master/LICENSE).
